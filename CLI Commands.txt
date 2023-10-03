@@ -1,0 +1,33 @@
+## CLI commands:
+- dir
+    - view contents of a folder (directory)
+- cd
+    - change directory
+    - without parameters just shows you where you are
+- cd ..
+- mkdir
+    - new empty folder
+- move
+- copy
+- del
+- ***ON A MAC:***
+    - cd
+    - cd ..
+    - pwd
+        - shows current path
+    - ls
+        -equivalent to dir
+    - ***also:***
+        - rm
+            - delete
+        - mv
+            - move
+        - cp
+            - copy
+
+
+
+
+
+
+
