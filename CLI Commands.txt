@@ -24,6 +24,10 @@
             - move
         - cp
             - copy
+- git remote add origin <URL>
+- git add .
+- git commit -m "message goes here"
+- git push origin <branchname>
 
 
 
